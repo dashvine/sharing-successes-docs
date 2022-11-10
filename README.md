@@ -5,6 +5,16 @@ Development docs of Boschview
 
 Compartilhando sucessos é um programa anual cujo um colaborador da Bosch ou cliente pode indicar seu colega de trabalho ou equipe caso ele se destaque em um dos princípios da GS, após a verificação dos indicados, são selecionados alguns para receberem prêmios.
 
+# Desenvolvedores
+
+- Guilherme Abe - Full Stack
+- Vitor Miura - Full Stack
+- Daniel Dante - Front-end
+- João Montanari - Front-end
+- Ícaro Duarte - Back-end
+- Giovanna Freitas - Front-end
+- Nathã Wolff - Front-end
+
 # User Story
 
 Como um colaborador ou cliente
