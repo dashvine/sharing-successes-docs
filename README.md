@@ -1,6 +1,25 @@
 # boschview-docs
 Development docs of Boschview
 
+# Telas
+
+- Home
+  - Lista de aprovados
+  - Lista de rejeitados(administrador)
+  - Lista de pendentes(administrador)
+- Criação de indicação
+- Edição de indicação(administrador)
+- Página da indicação(administrador)
+- Login(administrador)
+- Tela de Aprovação(gestor)
+
+tem que fazer a tela do email
+- Telas de confirmação
+  - Tela de confimação do indicador
+  - Tela de confirmação do gestor
+- Tela de notificação 
+
+
 # Descrição
 
 Compartilhando sucessos é um programa anual cujo um colaborador da Bosch ou cliente pode indicar seu colega de trabalho ou equipe caso ele se destaque em um dos princípios da GS, após a verificação dos indicados, são selecionados alguns para receberem prêmios.
