@@ -1,5 +1,5 @@
-# boschview-docs
-Development docs of Boschview
+# Sharing Successes Docs
+Development docs of Sharing Successes
 
 # Telas
 
@@ -22,7 +22,7 @@ tem que fazer a tela do email
 
 # Descrição
 
-Compartilhando sucessos é um programa anual cujo um colaborador da Bosch ou cliente pode indicar seu colega de trabalho ou equipe caso ele se destaque em um dos princípios da GS, após a verificação dos indicados, são selecionados alguns para receberem prêmios.
+Compartilhando sucessos é um programa anual cujo um colaborador ou cliente pode indicar seu colega de trabalho ou equipe caso ele se destaque em um dos princípios da GS, após a verificação dos indicados, são selecionados alguns para receberem prêmios.
 
 # Desenvolvedores
 
